@@ -15,3 +15,7 @@ Start the project.
 After opening the Part 1 codes in NetBeans, Delete the com.raven.main inputs
 
 ![Screenshot 2023-06-05 003515](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/5d7968b9-0321-4876-91ad-32a2e68b9642)
+
+Here you have to CNTL + SPACE to geautofill the codes
+
+![Screenshot 2023-06-05 011151](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/e2992f42-f3d6-4e2e-88cd-ac24950f4e64)
