@@ -3,7 +3,7 @@ Java Swing UI Design which has Login/registration/unique code required/multipage
 
 Codes are inspired by https://github.com/DJ-Raven/java-swing-login-ui-001
 
-Part 1
+Part 1 of the project
 
 ![Screenshot 2023-06-05 004746](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/41b26ff1-cb06-4f82-9b6f-4d581d9c0a68)
 
