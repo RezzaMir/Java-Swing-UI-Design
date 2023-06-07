@@ -3,6 +3,8 @@ Java Swing UI Design which has Login/registration/unique code required/multipage
 
 Codes are inspired by https://github.com/DJ-Raven/java-swing-login-ui-001
 
+
+# Project Set Up
 Part 1 of the project, basic information to get the program running on NetBeans.
 After you download the files you start these steps
 
