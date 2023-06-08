@@ -25,3 +25,12 @@ Here you have to CTRL + SPACE to geautofill the codes.
 
 # First stage of the project
 In this part (part 1) we test animations, by clocking the button, the page relocated to other side of the window.
+
+Before
+
+![Screenshot 2023-06-07 222650](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/4b3fe708-2262-4b7a-b4bd-ccf65de875ce)
+
+After
+
+![Screenshot 2023-06-07 222808](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/10d4d075-70b9-4cf3-824d-96f9a17ec5b4)
+
