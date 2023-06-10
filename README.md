@@ -35,7 +35,17 @@ After
 ![Screenshot 2023-06-07 222808](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/10d4d075-70b9-4cf3-824d-96f9a17ec5b4)
 
 # To open 'Copy Class'
-You have 2 ways, first press ALT + C or go to this location
+You have two ways, 
+1) Press ALT + C 
+Or
+2) go to this location
 
-![Screenshot 2023-06-09 222103](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/c610e18e-9348-4c90-9342-49e230c6ca8a)
 ![Screenshot 2023-06-09 222155](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/bc72bbb1-2755-4ef2-a0ac-f8503b1c6737)
+![Screenshot 2023-06-09 222103](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/c610e18e-9348-4c90-9342-49e230c6ca8a)
+
+# Color Selector Website
+https://htmlcolorcodes.com/
+
+![Screenshot 2023-06-09 222718](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/588bfa7a-a965-4ea1-8e13-d53cc9b51392)
+
+
