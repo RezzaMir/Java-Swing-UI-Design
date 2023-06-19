@@ -50,4 +50,6 @@ https://htmlcolorcodes.com/
 
 ![Screenshot 2023-06-09 222718](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/588bfa7a-a965-4ea1-8e13-d53cc9b51392)
 
+# First Settings
+![Screenshot 2023-06-19 044448](https://github.com/RezzaMir/Java-Swing-UI-Design/assets/102126445/fb0e656e-c9e4-47be-98eb-641ffa8712e1)
 
